@@ -9,6 +9,9 @@ A modern banking dashboard built with ReactJS for seamless financial management.
 ✅ Loan Management – Track loans and savings goals
 ✅ Subscriptions & Payments – Manage recurring expenses
 
+![image](https://github.com/user-attachments/assets/b96141b7-1c8f-4da2-9c21-dbd95d4608a3)
+
+
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJS
 State Management: React Context API / Redux
