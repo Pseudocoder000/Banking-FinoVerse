@@ -2,12 +2,7 @@
 A modern banking dashboard built with ReactJS for seamless financial management.
 
 🚀 Features
-✅ User Authentication – Secure login/logout system
-✅ Dark Mode Dashboard – Sleek and intuitive UI
-✅ Transaction Tracking – Monitor all financial transactions
-✅ Budget & Reports – Visual insights with charts
-✅ Loan Management – Track loans and savings goals
-✅ Subscriptions & Payments – Manage recurring expenses
+
 
 ![image](https://github.com/user-attachments/assets/b96141b7-1c8f-4da2-9c21-dbd95d4608a3)
 
