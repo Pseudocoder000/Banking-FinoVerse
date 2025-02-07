@@ -21,8 +21,7 @@ Authentication: Firebase / JWT
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Banking-Finoverse.git
-cd Banking-Finoverse
+https://github.com/Pseudocoder000/Banking-FinoVerse.git  cd Banking-Finoverse
 2️⃣ Install dependencies
 
 bash
@@ -40,7 +39,7 @@ npm start
 arduino
 Copy
 Edit
-http://localhost:3000
+http://localhost:5174
 🔧 Future Enhancements
 🚀 AI-powered financial recommendations
 🚀 API integration for real-time transactions
