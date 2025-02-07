@@ -44,10 +44,5 @@ http://localhost:5174
 🚀 Multi-user role management
 🚀 Mobile-friendly PWA support
 
-📢 Contribute
-Want to improve this project? Fork it, make your changes, and submit a pull request!
-
-🔗 Connect With Us
-💬 Discord | 🐦 Twitter | 🌍 Website
 
 📌 Work in progress.....
