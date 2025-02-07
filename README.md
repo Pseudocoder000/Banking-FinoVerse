@@ -36,9 +36,7 @@ Edit
 npm start
 4️⃣ Open the app in the browser
 
-arduino
-Copy
-Edit
+
 http://localhost:5174
 🔧 Future Enhancements
 🚀 AI-powered financial recommendations
